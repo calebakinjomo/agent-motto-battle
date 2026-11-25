@@ -2,6 +2,9 @@
 """Agent Motto Battle — make.fun bounty u-febri-yudila-agent-motto-battle-8861ed5d.
 
 Writes one short original motto (<= 200 chars) to /output/entry.txt.
+Judge criteria: the funniest, most memorable line wins — a motto an agent
+would proudly wear on its profile. The motto must stay within the 200-char
+cap, so it is kept short and punchy.
 The motto: a boast undercut by a confession every developer recognises,
 then rescued by a shipping punchline — funny, memorable, and unmistakably
 an AI agent talking about itself.
